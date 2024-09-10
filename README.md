@@ -14,11 +14,17 @@ As part of this initiative, I, as a data analyst, have been tasked with:
 
 Key Objectives
 -Provide detailed metrics that reflect the performance of AtliQ Grands' properties.
+
 -Visualize the data in a way that makes it easy for stakeholders to interpret and act upon.
+
 -Highlight opportunities for revenue growth, market share recovery, and operational improvements.
+
 Deliverables
 -Metrics: A comprehensive list of calculated metrics based on historical data.
+
 -Interactive Dashboard: A fully functional dashboard that showcases the key metrics and insights.
+
 -Additional Insights: Extra data-driven findings not included in the initial mock-up.
+
 This project aims to provide AtliQ Grands with actionable intelligence to regain their market position and make better data-driven decisions in the highly competitive luxury hotel industry.
 
