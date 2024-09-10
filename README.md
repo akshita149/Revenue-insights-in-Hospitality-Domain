@@ -1,4 +1,5 @@
 AtliQ Grands - Business and Data Intelligence Dashboard
+
 AtliQ Grands is a luxury hotel chain with multiple five-star properties across India. Having been in the hospitality industry for over 20 years, the brand has faced recent challenges due to increasing competition and ineffective decision-making. This has resulted in a decline in market share and revenue in the luxury/business hotel category.
 
 To regain their position in the market, the managing director has decided to incorporate “Business and Data Intelligence” into the company’s strategic operations. However, due to the absence of an in-house data analytics team, AtliQ Grands' revenue management team opted to partner with a 3rd-party service provider for data-driven insights.
