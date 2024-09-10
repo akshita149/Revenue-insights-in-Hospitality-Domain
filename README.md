@@ -4,6 +4,8 @@ AtliQ Grands is a luxury hotel chain with multiple five-star properties across I
 To regain their position in the market, the managing director has decided to incorporate “Business and Data Intelligence” into the company’s strategic operations. However, due to the absence of an in-house data analytics team, AtliQ Grands' revenue management team opted to partner with a 3rd-party service provider for data-driven insights.
 
 Project Overview
+
+
 As part of this initiative, I, as a data analyst, have been tasked with:
 
 -Creating Metrics: Developing key metrics based on the business requirements outlined by stakeholders.
@@ -13,6 +15,8 @@ As part of this initiative, I, as a data analyst, have been tasked with:
 -Generating Additional Insights: Beyond the pre-defined metrics, I will explore the data to identify relevant trends, patterns, and anomalies that can further assist in strategic decision-making.
 
 Key Objectives
+
+
 -Provide detailed metrics that reflect the performance of AtliQ Grands' properties.
 
 -Visualize the data in a way that makes it easy for stakeholders to interpret and act upon.
@@ -20,6 +24,8 @@ Key Objectives
 -Highlight opportunities for revenue growth, market share recovery, and operational improvements.
 
 Deliverables
+
+
 -Metrics: A comprehensive list of calculated metrics based on historical data.
 
 -Interactive Dashboard: A fully functional dashboard that showcases the key metrics and insights.
